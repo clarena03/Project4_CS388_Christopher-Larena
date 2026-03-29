@@ -1,10 +1,10 @@
-# Android Project 4 - *Name of App Here*
+# Android Project 4 - *Cinema Hub*
 
-Submitted by: **Your Name Here**
+Submitted by: **Christopher Larena**
 
-**Name of your app** is a movie browsing app that allows users to browse ... [TODO] 
+**Name of your app** is a movie browsing app that allows users to browse ... popular movies and see details about each one
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
